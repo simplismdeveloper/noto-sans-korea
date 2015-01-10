@@ -1,7 +1,7 @@
 {
   "name": "noto-sans-korea",
-  "version": "1.0.0",
   "homepage": "https://github.com/simplismdeveloper/noto-sans-korea",
+  "version": "1.0.0",
   "description": "Noto Sans Korea",
   "main": "css/fonts.css",
   "moduleType": [
