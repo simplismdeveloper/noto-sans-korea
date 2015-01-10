@@ -1,0 +1,25 @@
+{
+  "name": "noto-sans-korea",
+  "version": "1.0.0",
+  "homepage": "https://github.com/simplismdeveloper/noto-sans-korea",
+  "description": "Noto Sans Korea",
+  "main": "css/fonts.css",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "noto",
+    "korea",
+    "한글",
+    "font",
+    "noto",
+    "sans",
+    "noto",
+    "sans",
+    "korea"
+  ],
+  "authors": [
+    "Seoklae, Kim"
+  ],
+  "license": "Apache License 2.0"
+}
